@@ -1,0 +1,2 @@
+MongoDB importer for counties and populated places dataset provided by the Men in Black.
+GeoSpatial indexed and ready to go.  See http://www.mongodb.org/display/DOCS/Geospatial+Indexing
